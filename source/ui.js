@@ -24,11 +24,11 @@ const items = [
 	},
 	{
 		label: 'Twitter',
-		url: 'https://twitter.com/sindresorhus'
+		url: 'https://twitter.com/?logged_out=1&lang=ja'
 	},
 	{
 		label: 'GitHub',
-		url: 'https://github.com/sindresorhus'
+		url: 'https://github.com/MyznEiji'
 	},
 	{
 		label: 'Blog',
